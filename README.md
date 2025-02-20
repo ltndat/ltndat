@@ -1,26 +1,37 @@
-Hi there 👋
+# 👋 Hi, I'm Dat Le Tran Ngoc!
 
-I am currently working as a full-stack app developer.
+💻 **Fullstack Developer** | React.js, Node.js, Django  
+🚀 **Building Scalable Web Apps**  
+🎯 **Certified by Meta & IBM**  
+📂 **Open to Remote US Roles**  
 
-Here are my favorite technologies, sorted by interest:
+---
 
-- **Programming Languages:** JavaScript, TypeScript, Python, Dart, Kotlin
-- **Backend Frameworks:** Express (TypeScript), Spring (Kotlin), Flask (Python)
-- **Frontend Frameworks:** React (TypeScript), Vue (TypeScript)
-- **App Frameworks:** Electron (TypeScript), Flutter (Dart)
-- **Database Engines:** MongoDB, SQLite, PostgreSQL, MySQL
+## 🚀 Tech Stack:
+- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** Node.js (Express), Django (Python)  
+- **Database:** MongoDB, PostgreSQL  
+- **DevOps:** Docker, Vercel, Render  
+- **Other:** Git, GitHub Actions, Firebase  
 
-> I'm a big fan of Electron (TypeScript) and Flutter (Dart).
-<img src="./card.png" alt="ltndat 2024" width="320">
-<!-- <div style="min-height:80px;width:100%;background:#1E1E2E;border:1px solid #666;border-radius:32px;padding:8px">
-<div style="display:flex;justify-content:space-around;align-items:center;flex-wrap:wrap">
-<a href="https://www.electronjs.org/" target="_blank">
-<img style="height:40px;object-fit:contain;filter:grayscale(1)" src="https://www.electronjs.org/assets/img/logo.svg" alt="Electron"/>
-</a>
-<a href="https://flutter.dev/" target="_blank">
-<img style="height:40px;object-fit:contain;filter:grayscale(1) invert(1)" src="https://docs.flutter.dev/assets/images/branding/flutter/logo+text/horizontal/default.svg" alt="Electron"/>
-</a>
-</div>
-<h3 style="color:white;text-align:center;font-family:monospace;font-weight:200;margin:16px 0 0">ltndat 2024</h3>
-</div> -->
+---
 
+## 🔥 Featured Projects:
+### 🛒 [E-Commerce Platform](https://github.com/ltndat/ecommerce-app)
+- **Tech:** React.js, Node.js, MongoDB, Stripe API  
+- **Features:** Authentication, Shopping Cart, Checkout, Admin Panel  
+- **Live Demo:** [ecommerce-app.vercel.app](https://ecommerce-app.vercel.app)  
+
+### ✅ [Task Manager App](https://github.com/ltndat/task-manager)
+- **Tech:** React.js, Express.js, PostgreSQL  
+- **Features:** CRUD, JWT Auth, Role-based Access  
+- **Live Demo:** [taskmanager.vercel.app](https://taskmanager.vercel.app)  
+
+### 🔗 More projects on [GitHub](https://github.com/ltndat?tab=repositories)
+
+---
+
+## 📬 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ltndat/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/ltndat_dev)  
+📩 Email: **ltndat.dev@gmail.com**  
