@@ -2,7 +2,7 @@
 
 💻 **Software Engineer** | React.js, Node.js, Django  
 🚀 **Building Scalable Web & SaaS Apps**  
-💬 **Learning & Sharing**
+💬 **Learning & Sharing**  
 📂 **Open to Remote Global**  
 
 ---  
