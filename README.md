@@ -57,13 +57,13 @@ Hi there! I'm a **Fullstack Developer** with a passion for building high-perform
 
 ## 🎓 Certifications  
 
-🏆 AWS Certified Developer – Associate 
-🏆 Google Cloud Associate 
-🏆 System Design & Architecture 
-🏆 Harvard CS50 Web Programming 
-🏆 Meta Front-End Developer 
-🏆 Meta Back-End Developer 
-🏆 Google UX Design Professional Certificate 
+🏆 AWS Certified Developer – Associate   
+🏆 Google Cloud Associate   
+🏆 System Design & Architecture   
+🏆 Harvard CS50 Web Programming   
+🏆 Meta Front-End Developer   
+🏆 Meta Back-End Developer   
+🏆 Google UX Design Professional Certificate   
 
 ---  
 
