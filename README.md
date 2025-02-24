@@ -23,20 +23,33 @@ Hi there! I'm a **Fullstack Developer** with a passion for building high-perform
 
 ## 🔥 Featured Projects  
 
-### 🛒 [Social](https://github.com/ltndat/ecommerce-app)  
-🔹 **Tech:** React.js, Node.js, MongoDB, Stripe API  
-🔹 **Features:** Authentication, Shopping Cart, Checkout, Admin Panel  
-🔹 **Live Demo:** [ecommerce-app.vercel.app](https://ecommerce-app.vercel.app)  
-
 ### 🛒 [E-Commerce Platform](https://github.com/ltndat/ecommerce-app)  
-🔹 **Tech:** React.js, Node.js, MongoDB, Stripe API  
-🔹 **Features:** Authentication, Shopping Cart, Checkout, Admin Panel  
-🔹 **Live Demo:** [ecommerce-app.vercel.app](https://ecommerce-app.vercel.app)  
+🔹 **Tech:** React.js, Django REST, PostgreSQL, Stripe API, Docker  
+🔹 **Features:** Authentication (JWT + OAuth), Shopping Cart, Payment Processing, Admin Dashboard  
+🔹 **System Design:** Microservices Architecture, Redis Caching, Celery Background Tasks  
+🔹 **Deployment:** AWS ECS + RDS + S3 + CloudFront  
+🔹 **Live Demo:** #
 
 ### ✅ [Task Manager App](https://github.com/ltndat/task-manager)  
-🔹 **Tech:** React.js, Express.js, PostgreSQL  
-🔹 **Features:** CRUD, JWT Auth, Role-based Access  
-🔹 **Live Demo:** [taskmanager.vercel.app](https://taskmanager.vercel.app)  
+🔹 **Tech:** React.js, Django REST, PostgreSQL, WebSockets  
+🔹 **Features:** Realtime Task Updates, Role-based Access, JWT Authentication  
+🔹 **System Design:** WebSockets, Redis Queue (Celery), Load Balancing  
+🔹 **Deployment:** AWS Lambda + API Gateway  
+🔹 **Live Demo:** #
+
+### 🔥 [SaaS Multi-Tenant CRM](https://github.com/ltndat/saas-crm)
+🔹 **Tech:** Django REST, PostgreSQL (Sharding), React.js  
+🔹 **Features:** Multi-Tenant System, Subscription Billing (Stripe), Role-based Access  
+🔹 **System Design:** Database Partitioning, Row-Level Security (RLS), Multi-Tenancy  
+🔹 **Deployment:** AWS ECS + RDS + S3 + CI/CD  
+🔹 **Live Demo:** #
+
+#### ⚙️ [DevOps & Cloud Infra](https://github.com/ltndat/devops-project)
+🔹 **Tech:** Terraform, AWS ECS, API Gateway, Lambda  
+🔹 **Features:** Scalable Backend Deployment, CI/CD Pipeline, Infrastructure as Code (IaC)  
+🔹 **System Design:** Load Balancing, Auto Scaling, Message Queue (SQS)  
+🔹 **Deployment:** AWS (ECS, Lambda, API Gateway, S3)  
+🔹 **Live Demo:** #
 
 🔗 **More projects on [GitHub](https://github.com/ltndat?tab=repositories)**  
 
@@ -44,13 +57,13 @@ Hi there! I'm a **Fullstack Developer** with a passion for building high-perform
 
 ## 🎓 Certifications  
 
-🏆 AWS Certified Developer – Associate
-🏆 Google Cloud Associate
-🏆 System Design & Architecture
-🏆 Harvard CS50 Web Programming
-🏆 Meta Front-End Developer
-🏆 Meta Back-End Developer
-🏆 Google UX Design Professional Certificate
+🏆 AWS Certified Developer – Associate 
+🏆 Google Cloud Associate 
+🏆 System Design & Architecture 
+🏆 Harvard CS50 Web Programming 
+🏆 Meta Front-End Developer 
+🏆 Meta Back-End Developer 
+🏆 Google UX Design Professional Certificate 
 
 ---  
 
