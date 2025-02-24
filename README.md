@@ -1,11 +1,16 @@
 # 👋 Hi, I'm Dat Le Tran Ngoc!  
 
-💻 **Fullstack Developer** | React.js, Node.js, Django  
+💻 **Software Engineer** | React.js, Node.js, Django  
 🚀 **Building Scalable Web & SaaS Apps**  
-🎯 **Certified by Meta & IBM**  
-📂 **Open to Remote US Roles**  
+💬 **Learning & Sharing**
+📂 **Open to Remote Global**  
 
 ---  
+
+## 📌 About Me  
+Hi there! I'm a **Fullstack Developer** with a passion for building high-performance web applications. I specialize in **React, Node.js, and Django**, focusing on **scalability, system design, and cloud deployment (AWS/GCP)**.  
+
+---
 
 ## 🚀 Tech Stack  
 🔹 **Frontend:** React.js, Next.js, Tailwind CSS  
@@ -17,6 +22,11 @@
 ---  
 
 ## 🔥 Featured Projects  
+
+### 🛒 [Social](https://github.com/ltndat/ecommerce-app)  
+🔹 **Tech:** React.js, Node.js, MongoDB, Stripe API  
+🔹 **Features:** Authentication, Shopping Cart, Checkout, Admin Panel  
+🔹 **Live Demo:** [ecommerce-app.vercel.app](https://ecommerce-app.vercel.app)  
 
 ### 🛒 [E-Commerce Platform](https://github.com/ltndat/ecommerce-app)  
 🔹 **Tech:** React.js, Node.js, MongoDB, Stripe API  
@@ -30,10 +40,25 @@
 
 🔗 **More projects on [GitHub](https://github.com/ltndat?tab=repositories)**  
 
+---
+
+## 🎓 Certifications  
+
+🏆 AWS Certified Developer – Associate
+🏆 Google Cloud Associate
+🏆 System Design & Architecture
+🏆 Harvard CS50 Web Programming
+🏆 Meta Front-End Developer
+🏆 Meta Back-End Developer
+🏆 Google UX Design Professional Certificate
+
 ---  
 
-## 📬 Connect with Me  
+## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ltndat/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/ltndat)  
+🔹 **LinkedIn:** [linkedin.com/in/ltndat](https://www.linkedin.com/in/ltndat)  
+🔹 **Twitter:** [twitter.com/ltndat](https://twitter.com/ltndat)  
+🔹 **Dev.to:** [dev.to/ltndat](https://dev.to/ltndat1)  
 📩 **Email:** ltndat.dev@gmail.com 
+
+💬 **Let's collaborate on future projects! Contact me 👆**
