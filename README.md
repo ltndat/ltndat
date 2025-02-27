@@ -5,12 +5,10 @@
 💬 **Learning & Sharing**  
 📂 **Open to Remote Global**  
 
----  
 
 ## 📌 About Me  
 Hi there! I'm a **Fullstack Developer** with a passion for building high-performance web applications. I specialize in **React, Node.js, and Django**, focusing on **scalability, system design, and cloud deployment (AWS/GCP)**.  
 
----
 
 ## 🚀 Tech Stack  
 🔹 **Frontend:** React.js, Next.js, Tailwind CSS  
@@ -19,7 +17,6 @@ Hi there! I'm a **Fullstack Developer** with a passion for building high-perform
 🔹 **DevOps:** Docker, Vercel, Render  
 🔹 **Other:** Git, GitHub Actions, Firebase  
 
----  
 
 ## 🔥 Featured Projects  
 
@@ -53,7 +50,6 @@ Hi there! I'm a **Fullstack Developer** with a passion for building high-perform
 
 🔗 **More projects on [GitHub](https://github.com/ltndat?tab=repositories)**  
 
----
 
 ## 🎓 Certifications  
 
@@ -65,7 +61,6 @@ Hi there! I'm a **Fullstack Developer** with a passion for building high-perform
 🏆 Meta Back-End Developer   
 🏆 Google UX Design Professional Certificate   
 
----  
 
 ## 📫 Connect with Me  
 
