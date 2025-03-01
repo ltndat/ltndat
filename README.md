@@ -62,6 +62,7 @@ Hi there! I'm a **Fullstack Developer** with a passion for building high-perform
 - **LinkedIn:** [linkedin.com/in/ltndat](https://www.linkedin.com/in/ltndat)  
 - **Twitter:** [twitter.com/ltndat](https://twitter.com/ltndat)  
 - **Dev.to:** [dev.to/ltndat1](https://dev.to/ltndat1)  
+
 📩 **Email:** ltndat.dev@gmail.com 
 
 💬 **Let's collaborate on future projects! Contact me 👆**
