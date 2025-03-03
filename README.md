@@ -50,7 +50,7 @@ Hi there! I'm a **Fullstack Developer** with a passion for building high-perform
 
 - AWS Certified Developer – Associate   
 - Google Cloud Associate   
-- System Design & Architecture   
+- Grokking System Design for Interviews  
 - Harvard CS50 Web Programming   
 - Meta Front-End Developer   
 - Meta Back-End Developer   
