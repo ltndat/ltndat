@@ -1,4 +1,4 @@
-# This Dat Le Tran Ngoc!  
+# This Dat Le Tran Ngoc
 
 💻 **Software Engineer** | React.js, Node.js, Django  
 🚀 **Building Scalable Web & SaaS Apps**  
@@ -6,10 +6,11 @@
 
 
 ## Who am I?
-I am a **Fullstack Developer** with a passion for building high-performance web applications. I specialize in **React, Node.js, and Django**, focusing on **scalability, system design, and cloud deployment (AWS/GCP)**.  
+I am a **Fullstack Developer** with a passion for building high-performance web applications. I specialize in **React, Node.js, and Django**, focusing on **scalability, system design, and cloud deployment (AWS/GCP)**. 
+>Additionally, I am **Co-Founder | Software Engineer** at **Nebula Dev Studio** work with my Teams
 
 
-## Stack  
+## My Main Stack  
 - **Frontend:** React.js, Next.js, Tailwind CSS  
 - **Backend:** Node.js (Express), Django (Python)  
 - **Database:** MongoDB, PostgreSQL  
@@ -17,7 +18,7 @@ I am a **Fullstack Developer** with a passion for building high-performance web 
 - **Other:** Git, GitHub Actions, Firebase  
 
 
-## Projects  
+## My Project Demos  
 
 ### [E-Commerce Platform](https://github.com/ltndat/ecommerce-app) 🛒   
 - **Tech:** React.js, Django REST, PostgreSQL, Stripe API, Docker  
@@ -45,13 +46,12 @@ I am a **Fullstack Developer** with a passion for building high-performance web 
 
 **Check out more on [My Repo](https://github.com/ltndat?tab=repositories)** 🔗   
 
-
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/ltndat](https://www.linkedin.com/in/ltndat)  
-- **Twitter:** [twitter.com/ltndat](https://twitter.com/ltndat)  
-- **Dev.to:** [dev.to/ltndat1](https://dev.to/ltndat1)  
+- **LinkedIn:** [ltndat](https://www.linkedin.com/in/ltndat)  
+- **Twitter:** [ltndat](https://twitter.com/ltndat)  
+- **Dev.to:** [ltndat1](https://dev.to/ltndat1)  
 
 📩 **Email:** ltndat.dev@gmail.com 
 
-💬 **Collaborate on future projects! Contact me 👆**
+>Want **collaborate on future projects?** Contact me 👆
