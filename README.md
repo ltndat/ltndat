@@ -44,7 +44,7 @@ I am a Fullstack Developer with a strong focus on **scalability, performance, an
 - **System Design:** Load Balancing, Auto Scaling, Message Queue (SQS)  
 - **Deployment:** AWS (ECS, Lambda, API Gateway, S3)  
 
-**Check out more on [My Repo](https://github.com/ltndat?tab=repositories)** 🔗   
+**Check out more on [My Repositories](https://github.com/ltndat?tab=repositories)** 🔗   
 
 ## Connect
 
