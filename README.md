@@ -26,13 +26,13 @@ I am a Fullstack Developer with a strong focus on **scalability, performance, an
 - **System Design:** Microservices Architecture, Redis Caching, Celery Background Tasks  
 - **Deployment:** AWS ECS + RDS + S3 + CloudFront  
 
-### [Task Manager App](https://github.com/ltndat/task-manager) ✔   
+### [Task Manager App](https://github.com/ltndat/task-manager) 💼   
 - **Tech:** React.js, Django REST, PostgreSQL, WebSockets  
 - **Features:** Realtime Task Updates, Role-based Access, JWT Authentication  
 - **System Design:** WebSockets, Redis Queue (Celery), Load Balancing  
 - **Deployment:** AWS Lambda + API Gateway  
 
-### [SaaS Multi-Tenant CRM](https://github.com/ltndat/saas-crm) 🛠   
+### [SaaS Multi-Tenant CRM](https://github.com/ltndat/saas-crm) 🧱   
 - **Tech:** Django REST, PostgreSQL (Sharding), React.js  
 - **Features:** Multi-Tenant System, Subscription Billing (Stripe), Role-based Access  
 - **System Design:** Database Partitioning, Row-Level Security (RLS), Multi-Tenancy  
