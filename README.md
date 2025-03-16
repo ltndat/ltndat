@@ -7,7 +7,7 @@
 
 ## Who am I?
 I am a Fullstack Developer with a strong focus on **scalability, performance, and system design**. I build **high-performance web applications** by leveraging modern **frontend, backend, and cloud technologies**. My expertise lies in designing secure, efficient APIs, optimizing databases, and deploying cloud-native solutions.
->Additionally, I am **Co-Founder | Software Engineer** @ **Nebula Dev Studio** work with my Teams
+>🏛 Additionally, I am a **Co-Founder | Software Engineer** @ **Nebula Dev Studio**, working with my Teams
 
 
 ## My Main Stack  
