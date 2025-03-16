@@ -51,7 +51,6 @@ I am a Fullstack Developer with a strong focus on **scalability, performance, an
 - **LinkedIn:** [ltndat](https://www.linkedin.com/in/ltndat)  
 - **Twitter:** [ltndat](https://twitter.com/ltndat)  
 - **Dev.to:** [ltndat1](https://dev.to/ltndat1)  
-
-📩 **Email:** ltndat.dev@gmail.com 
+- **Email:** ltndat.dev@gmail.com 
 
 >Want **collaborate on future projects?** Contact me 👆
