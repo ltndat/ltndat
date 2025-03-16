@@ -6,7 +6,7 @@
 
 
 ## Who am I?
-I am a **Fullstack Developer** with a passion for building high-performance web applications. I specialize in **React, Node.js, and Django**, focusing on **scalability, system design, and cloud deployment (AWS/GCP)**. 
+I am a Fullstack Developer with a strong focus on **scalability, performance, and system design**. I build **high-performance web applications** by leveraging modern **frontend, backend, and cloud technologies**. My expertise lies in designing secure, efficient APIs, optimizing databases, and deploying cloud-native solutions.
 >Additionally, I am **Co-Founder | Software Engineer** at **Nebula Dev Studio** work with my Teams
 
 
