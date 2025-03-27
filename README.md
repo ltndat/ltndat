@@ -19,7 +19,7 @@ Always open to meaningful remote opportunities where I can bring **systems think
 **System Design:** Microservices Architecture, Redis Caching, Celery Tasks  
 **Infra:** AWS ECS, RDS, S3, CloudFront
 
----
+
 
 ### [Task Manager App](https://github.com/ltndat/task-manager)  
 **Tech:** React.js, Django REST, PostgreSQL, WebSockets  
@@ -27,7 +27,7 @@ Always open to meaningful remote opportunities where I can bring **systems think
 **System Design:** WebSockets, Redis Queue, Load Balancing  
 **Infra:** AWS Lambda, API Gateway, Docker
 
----
+
 
 ### [SaaS Multi-Tenant CRM](https://github.com/ltndat/saas-crm)  
 **Tech:** Django REST, PostgreSQL (Sharding), React.js  
@@ -35,7 +35,7 @@ Always open to meaningful remote opportunities where I can bring **systems think
 **System Design:** Row-Level Security, DB Partitioning, SaaS Isolation  
 **Infra:** AWS ECS, RDS, S3, CI/CD Pipeline
 
----
+
 
 ### [DevOps & Cloud Infrastructure](https://github.com/ltndat/devops-project)  
 **Tech:** Terraform, AWS ECS, Lambda, API Gateway  
@@ -43,7 +43,7 @@ Always open to meaningful remote opportunities where I can bring **systems think
 **System Design:** Load Balancing, Auto Scaling, Message Queue (SQS)  
 **Infra:** AWS (ECS, Lambda, API Gateway, S3)
 
----
+
 
 **→ See more at [My Repositories](https://github.com/ltndat?tab=repositories)**
 
