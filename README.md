@@ -57,3 +57,4 @@ Always open to meaningful remote opportunities where I can bring **systems think
 - **Email:** ltndat.dev@gmail.com
 
 If any project or idea resonates, feel free to connect — always open to thoughtful collaborations.
+Currently building internal dev systems at Nebula to scale team velocity and product clarity.
