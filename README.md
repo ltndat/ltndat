@@ -13,7 +13,7 @@ Always open to meaningful remote opportunities where I can bring **systems think
 
 ## Projects
 
-### [E-Commerce Platform](https://github.com/ltndat/ecommerce-app)  
+### E-Commerce Platform  
 **Tech:** React.js, Django REST, PostgreSQL, Stripe API, Docker  
 **Key Features:** JWT + OAuth Authentication, Shopping Cart, Admin Dashboard  
 **System Design:** Microservices Architecture, Redis Caching, Celery Tasks  
@@ -21,7 +21,7 @@ Always open to meaningful remote opportunities where I can bring **systems think
 
 
 
-### [Task Manager App](https://github.com/ltndat/task-manager)  
+### Task Manager App  
 **Tech:** React.js, Django REST, PostgreSQL, WebSockets  
 **Key Features:** Realtime Task Updates, Role-Based Access, JWT Auth  
 **System Design:** WebSockets, Redis Queue, Load Balancing  
@@ -29,7 +29,7 @@ Always open to meaningful remote opportunities where I can bring **systems think
 
 
 
-### [SaaS Multi-Tenant CRM](https://github.com/ltndat/saas-crm)  
+### SaaS Multi-Tenant CRM  
 **Tech:** Django REST, PostgreSQL (Sharding), React.js  
 **Key Features:** Multi-Tenancy, Subscription Billing (Stripe), RLS  
 **System Design:** Row-Level Security, DB Partitioning, SaaS Isolation  
@@ -37,7 +37,7 @@ Always open to meaningful remote opportunities where I can bring **systems think
 
 
 
-### [DevOps & Cloud Infrastructure](https://github.com/ltndat/devops-project)  
+### DevOps & Cloud Infrastructure  
 **Tech:** Terraform, AWS ECS, Lambda, API Gateway  
 **Key Features:** IaC, CI/CD Pipeline, Scalable Backend  
 **System Design:** Load Balancing, Auto Scaling, Message Queue (SQS)  
