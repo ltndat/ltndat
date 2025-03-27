@@ -1,56 +1,59 @@
-# This Dat Le Tran Ngoc
+# ltndat – Full Stack Developer | Systems Builder
 
-💻 **Software Engineer** | React.js, Node.js, Django  
-🚀 **Building Scalable Web & SaaS Apps**  
->I love **Learning & Sharing** for everyone   
+I'm a full stack engineer with a product-first mindset and a systemized learning approach.
 
+I don’t just build apps — I design internal systems to help me (and my team) learn faster, build faster, and scale better.  
+I use tools like **React, Node.js, Django, AWS, and GCP** to ship **clean, scalable, cloud-native applications**.
 
-## Who am I?
-I am a Fullstack Developer with a strong focus on **scalability, performance, and system design**. I build **high-performance web applications** by leveraging modern **frontend, backend, and cloud technologies**. My expertise lies in designing secure, efficient APIs, optimizing databases, and deploying cloud-native solutions.
->🏛 Additionally, I am a **Co-Founder | Software Engineer** @ **Nebula Dev Studio**, working with my Teams
+Currently leading **Nebula Dev Studio** as **Co-Founder / Engineer**, where I apply these systems to deliver performance and clarity in every product we ship.
 
+Always open to meaningful remote opportunities where I can bring **systems thinking, fast execution, and a builder’s mindset** to the team.
 
-## My Main Stack  
-- **Frontend:** React.js, Next.js, Tailwind CSS  
-- **Backend:** Node.js (Express), Django (Python)  
-- **Database:** MongoDB, PostgreSQL  
-- **DevOps:** Docker, Vercel, Render  
-- **Other:** Git, GitHub Actions, Firebase  
+---
 
+## Projects
 
-## My Project Demos  
+### [E-Commerce Platform](https://github.com/ltndat/ecommerce-app)  
+**Tech:** React.js, Django REST, PostgreSQL, Stripe API, Docker  
+**Key Features:** JWT + OAuth Authentication, Shopping Cart, Admin Dashboard  
+**System Design:** Microservices Architecture, Redis Caching, Celery Tasks  
+**Infra:** AWS ECS, RDS, S3, CloudFront
 
-### [E-Commerce Platform](https://github.com/ltndat/ecommerce-app) 🛒   
-- **Tech:** React.js, Django REST, PostgreSQL, Stripe API, Docker  
-- **Features:** Authentication (JWT + OAuth), Shopping Cart, Payment Processing, Admin Dashboard  
-- **System Design:** Microservices Architecture, Redis Caching, Celery Background Tasks  
-- **Deployment:** AWS ECS + RDS + S3 + CloudFront  
+---
 
-### [Task Manager App](https://github.com/ltndat/task-manager) 💼   
-- **Tech:** React.js, Django REST, PostgreSQL, WebSockets  
-- **Features:** Realtime Task Updates, Role-based Access, JWT Authentication  
-- **System Design:** WebSockets, Redis Queue (Celery), Load Balancing  
-- **Deployment:** AWS Lambda + API Gateway  
+### [Task Manager App](https://github.com/ltndat/task-manager)  
+**Tech:** React.js, Django REST, PostgreSQL, WebSockets  
+**Key Features:** Realtime Task Updates, Role-Based Access, JWT Auth  
+**System Design:** WebSockets, Redis Queue, Load Balancing  
+**Infra:** AWS Lambda, API Gateway, Docker
 
-### [SaaS Multi-Tenant CRM](https://github.com/ltndat/saas-crm) 🧱   
-- **Tech:** Django REST, PostgreSQL (Sharding), React.js  
-- **Features:** Multi-Tenant System, Subscription Billing (Stripe), Role-based Access  
-- **System Design:** Database Partitioning, Row-Level Security (RLS), Multi-Tenancy  
-- **Deployment:** AWS ECS + RDS + S3 + CI/CD  
+---
 
-#### [DevOps & Cloud Infra](https://github.com/ltndat/devops-project) ⚙️   
-- **Tech:** Terraform, AWS ECS, API Gateway, Lambda  
-- **Features:** Scalable Backend Deployment, CI/CD Pipeline, Infrastructure as Code (IaC)  
-- **System Design:** Load Balancing, Auto Scaling, Message Queue (SQS)  
-- **Deployment:** AWS (ECS, Lambda, API Gateway, S3)  
+### [SaaS Multi-Tenant CRM](https://github.com/ltndat/saas-crm)  
+**Tech:** Django REST, PostgreSQL (Sharding), React.js  
+**Key Features:** Multi-Tenancy, Subscription Billing (Stripe), RLS  
+**System Design:** Row-Level Security, DB Partitioning, SaaS Isolation  
+**Infra:** AWS ECS, RDS, S3, CI/CD Pipeline
 
-**Check out more on [My Repositories](https://github.com/ltndat?tab=repositories)** 🔗   
+---
+
+### [DevOps & Cloud Infrastructure](https://github.com/ltndat/devops-project)  
+**Tech:** Terraform, AWS ECS, Lambda, API Gateway  
+**Key Features:** IaC, CI/CD Pipeline, Scalable Backend  
+**System Design:** Load Balancing, Auto Scaling, Message Queue (SQS)  
+**Infra:** AWS (ECS, Lambda, API Gateway, S3)
+
+---
+
+**→ See more at [My Repositories](https://github.com/ltndat?tab=repositories)**
+
+---
 
 ## Connect
 
 - **LinkedIn:** [ltndat](https://www.linkedin.com/in/ltndat)  
-- **Twitter:** [ltndat](https://twitter.com/ltndat)  
-- **Dev.to:** [ltndat1](https://dev.to/ltndat1)  
-- **Email:** ltndat.dev@gmail.com 
+- **Twitter:** [@ltndat](https://twitter.com/ltndat)  
+- **Dev.to:** [@ltndat1](https://dev.to/ltndat1)  
+- **Email:** ltndat.dev@gmail.com
 
->Want **collaborate on future projects?** Contact me 👆
+If any project or idea resonates, feel free to connect — always open to thoughtful collaborations.
