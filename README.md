@@ -45,7 +45,7 @@ Always open to meaningful remote opportunities where I can bring **systems think
 
 
 
-**→ See more at [My Repositories](https://github.com/ltndat?tab=repositories)**
+→ See more at repositories   
 
 ---
 
