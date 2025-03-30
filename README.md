@@ -5,7 +5,7 @@ I'm a full stack engineer with a product-first mindset and a systemized learning
 I don’t just build apps — I design internal systems to help me (and my team) learn faster, build faster, and scale better.  
 I use tools like **React, Node.js, Django, AWS, and GCP** to ship **clean, scalable, cloud-native applications**.
 
-Currently leading **Nebula Dev Studio** as **Co-Founder / Engineer**, where I apply these systems to deliver performance and clarity in every product we ship.
+Currently leading **Nebula Dev Studio** as **Co-Founder / Engineer**, where I apply these systems in real-world product pipelines — designed with **Second Mind OS Lab** principles.
 
 Always open to meaningful remote opportunities where I can bring **systems thinking, fast execution, and a builder’s mindset** to the team.
 
@@ -45,7 +45,7 @@ Always open to meaningful remote opportunities where I can bring **systems think
 
 
 
-→ See more at repositories   
+→ See more at my repositories   
 
 ---
 
@@ -56,5 +56,5 @@ Always open to meaningful remote opportunities where I can bring **systems think
 - **Dev.to:** [@ltndat1](https://dev.to/ltndat1)  
 - **Email:** ltndat.dev@gmail.com
 
-If any project or idea resonates, feel free to connect — always open to thoughtful collaborations.   
-Currently building internal dev systems at Nebula to scale team velocity and product clarity.
+> If any project or idea resonates, feel free to connect — always open to thoughtful collaborations.   
+> Currently building internal dev systems at Nebula to scale team velocity and product clarity.
