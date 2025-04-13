@@ -51,10 +51,8 @@ Always open to meaningful remote opportunities where I can bring **systems think
 
 ## Connect
 
-- **LinkedIn:** [ltndat](https://www.linkedin.com/in/ltndat)  
-- **Twitter:** [@ltndat](https://twitter.com/ltndat)  
-- **Dev.to:** [@ltndat1](https://dev.to/ltndat1)  
-- **Email:** ltndat.dev@gmail.com
+- **LinkedIn:** [@ltndat](https://www.linkedin.com/in/ltndat)  **Twitter:** [@ltndat](https://twitter.com/ltndat)  **Medium:** [@ltndat](https://medium.com/@ltndat) 
+ **Email:** ltndat.dev@gmail.com
 
 > If any project or idea resonates, feel free to connect — always open to thoughtful collaborations.   
 > Currently building internal dev systems at Nebula to scale team velocity and product clarity.
