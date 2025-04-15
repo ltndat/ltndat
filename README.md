@@ -47,7 +47,7 @@ Always open to meaningful remote opportunities where I can bring **systems think
 
 → See more at my repositories   
 
----
+
 
 ## Connect
 
