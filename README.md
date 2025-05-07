@@ -1,4 +1,4 @@
-# System-Driven Full Stack Developer
+# System-Led Full Stack Developer
 
 I'm a full stack engineer with a product-first mindset and a systemized learning approach.
 
